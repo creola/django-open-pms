@@ -20,7 +20,7 @@ coverage==7.2.6  # https://github.com/nedbat/coveragepy
 factory-boy==3.2.1  # https://github.com/FactoryBoy/factory_boy
 django-test-plus==2.2.1  # https://github.com/revsys/django-test-plus
 
-django-debug-toolbar==1.9.1  # https://github.com/jazzband/django-debug-toolbar
+django-debug-toolbar==4.1.0  # https://github.com/jazzband/django-debug-toolbar
 django-extensions==2.0.7  # https://github.com/django-extensions/django-extensions
 django-coverage-plugin==1.5.0  # https://github.com/nedbat/django_coverage_plugin
 pytest-django==3.2.1  # https://github.com/pytest-dev/pytest-django
